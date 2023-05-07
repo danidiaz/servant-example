@@ -1,0 +1,1 @@
+- [Haskell programming: a minimal Servant server (1)](https://youtu.be/YYmxAHWrFR4)
